@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AboliS19/Vis_Onboarding_Chatbot/static/css/main.551edeab.css",
-    "main.js": "/AboliS19/Vis_Onboarding_Chatbot/static/js/main.417dacb3.js",
-    "static/js/787.28cb0dcd.chunk.js": "/AboliS19/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/AboliS19/Vis_Onboarding_Chatbot/index.html",
-    "main.551edeab.css.map": "/AboliS19/Vis_Onboarding_Chatbot/static/css/main.551edeab.css.map",
-    "main.417dacb3.js.map": "/AboliS19/Vis_Onboarding_Chatbot/static/js/main.417dacb3.js.map",
-    "787.28cb0dcd.chunk.js.map": "/AboliS19/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Vis_Onboarding_Chatbot/static/css/main.551edeab.css",
+    "main.js": "/Vis_Onboarding_Chatbot/static/js/main.d1e740f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Vis_Onboarding_Chatbot/index.html",
+    "main.551edeab.css.map": "/Vis_Onboarding_Chatbot/static/css/main.551edeab.css.map",
+    "main.d1e740f8.js.map": "/Vis_Onboarding_Chatbot/static/js/main.d1e740f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.551edeab.css",
-    "static/js/main.417dacb3.js"
+    "static/js/main.d1e740f8.js"
   ]
 }
