@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AboliS19/Vis_Onboarding_Chatbot/static/css/main.551edeab.css",
+    "main.js": "/AboliS19/Vis_Onboarding_Chatbot/static/js/main.417dacb3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AboliS19/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AboliS19/Vis_Onboarding_Chatbot/index.html",
+    "main.551edeab.css.map": "/AboliS19/Vis_Onboarding_Chatbot/static/css/main.551edeab.css.map",
+    "main.417dacb3.js.map": "/AboliS19/Vis_Onboarding_Chatbot/static/js/main.417dacb3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AboliS19/Vis_Onboarding_Chatbot/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551edeab.css",
+    "static/js/main.417dacb3.js"
+  ]
+}
